@@ -50,3 +50,7 @@ instagram: https://www.instagram.com/manikse_10?igsh=MW81Z2FveHo4Yzd1aQ==
 
 UpWork: https://www.upwork.com/freelancers/~01447dc4bd05415da4?mp_source=share
 ---
+
+# Support the Developer ☕
+<p align="center"> <b>If you like this bot, consider supporting me:</b><br><br> <a href="https://buymeacoffee.com/manikse"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"> </a> </p>
+
